@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8c676ab-2fb9-494e-b204-c2e63875615a" name="Changes" comment="D-10">
-      <change afterPath="$PROJECT_DIR$/MyQubit/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/20231205.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/20231128.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note/20231128.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2Z3tghFpb2dTLhEXgccCvv7WRzY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,7 +71,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/yalgaeahn/Documents/Chicago/Chicago_code",
+    "last_opened_file_path": "/Users/yalgaeahn/Documents/Chicago/Chicago_code/note",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +80,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/note" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Chicago_code" />
@@ -223,7 +230,7 @@
       <updated>1701662703262</updated>
       <workItem from="1701662704278" duration="526000" />
       <workItem from="1701703015087" duration="2877000" />
-      <workItem from="1701716447805" duration="13349000" />
+      <workItem from="1701716447805" duration="17995000" />
     </task>
     <task id="LOCAL-00001" summary="D-10">
       <option name="closed" value="true" />
