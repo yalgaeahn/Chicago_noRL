@@ -1,7 +1,7 @@
 import numpy as np
+import torch
 
-
-class single_qubit:
+class MyQubitGate:
     def make_U(hbar=1.,H, time_step):
         """
         PARAMETER
