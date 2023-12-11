@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8c676ab-2fb9-494e-b204-c2e63875615a" name="Changes" comment="D-10">
-      <change afterPath="$PROJECT_DIR$/MyGate/MyGate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyGate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/sibal_iSWAP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qutip_basic/Processor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qutip_basic/QuantumCircuit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qutip_basic/custom_simulator.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyQubit/MyQubit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyQubit/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyGate/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/20231207.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note/20231207.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/20231206.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note/20231206.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/sibal_iSWAP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/note/sibal_iSWAP.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +144,9 @@
       <workItem from="1701703015087" duration="2877000" />
       <workItem from="1701716447805" duration="18185000" />
       <workItem from="1701886708247" duration="6388000" />
-      <workItem from="1702052172145" duration="12166000" />
+      <workItem from="1702052172145" duration="12840000" />
+      <workItem from="1702168384014" duration="6588000" />
+      <workItem from="1702246856019" duration="20179000" />
     </task>
     <task id="LOCAL-00001" summary="D-10">
       <option name="closed" value="true" />
